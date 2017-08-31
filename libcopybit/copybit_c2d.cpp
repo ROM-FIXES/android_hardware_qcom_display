@@ -35,6 +35,7 @@
 
 #include <EGL/eglplatform.h>
 #include <cutils/native_handle.h>
+#include <utils/AndroidThreads.h>
 
 #include <copybit.h>
 #include <alloc_controller.h>
